@@ -1,3 +1,5 @@
+# Este repositorio fue reemplazado por github.com/getstratum/stratum
+
 # Stratum — AI Governance Platform
 
 **Gateway de IA open-source para equipos enterprise. Control, visibilidad y gobernanza sobre cada llamada a la API de IA.**
